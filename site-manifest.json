@@ -1,0 +1,53 @@
+{
+  "company": "YOSHIMIWA TRADING CO., LTD.",
+  "languages": [
+    "ja",
+    "zh",
+    "zh-hk",
+    "en"
+  ],
+  "pages": [
+    "index",
+    "business",
+    "food",
+    "investment",
+    "company",
+    "message",
+    "contact",
+    "privacy"
+  ],
+  "files": [
+    "ja/index.html",
+    "ja/business.html",
+    "ja/food.html",
+    "ja/investment.html",
+    "ja/company.html",
+    "ja/message.html",
+    "ja/contact.html",
+    "ja/privacy.html",
+    "zh/index.html",
+    "zh/business.html",
+    "zh/food.html",
+    "zh/investment.html",
+    "zh/company.html",
+    "zh/message.html",
+    "zh/contact.html",
+    "zh/privacy.html",
+    "zh-hk/index.html",
+    "zh-hk/business.html",
+    "zh-hk/food.html",
+    "zh-hk/investment.html",
+    "zh-hk/company.html",
+    "zh-hk/message.html",
+    "zh-hk/contact.html",
+    "zh-hk/privacy.html",
+    "en/index.html",
+    "en/business.html",
+    "en/food.html",
+    "en/investment.html",
+    "en/company.html",
+    "en/message.html",
+    "en/contact.html",
+    "en/privacy.html"
+  ]
+}
